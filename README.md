@@ -1,2 +1,2 @@
 # TaylorSwiftCoverageInMedia
-Project to study if her coverage is positive or negative and what the coverage focuses on
+Project to study if Taylor Swift's coverage is positive or negative and what topics are covered
